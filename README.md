@@ -13,7 +13,9 @@ Node.js and npm (or yarn) installed on your system. You can download them from h
 - Clone the repository:
 git clone https://github.com/jshivi19/3d-printed-ordering-website.git
 - Navigate to the project directory:
-cd 3d-printed-keychain-website
+  ```
+  cd 3d-print-ordering-website
+  ```
 - Install dependencies:
   ```
   npm install  # or yarn install
